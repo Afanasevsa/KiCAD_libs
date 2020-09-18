@@ -1,0 +1,51 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP STMPS2141STR
+D Enhanced single channel power switch, 5,5V, 500mA, EN=L
+K Power switch
+F https://www.st.com/resource/en/datasheet/stmps2141.pdf
+$ENDCMP
+#
+$CMP STMPS2141TTR
+D Enhanced single channel power switch, 5,5V, 500mA, EN=L
+K Power switch
+F https://www.st.com/resource/en/datasheet/stmps2141.pdf
+$ENDCMP
+#
+$CMP STMPS2151STR
+D Enhanced single channel power switch, 5,5V, 500mA, EN=H
+K Power switch
+F https://www.st.com/resource/en/datasheet/stmps2141.pdf
+$ENDCMP
+#
+$CMP STMPS2151TTR
+D Enhanced single channel power switch, 5,5V, 500mA, EN=H
+K Power switch
+F https://www.st.com/resource/en/datasheet/stmps2141.pdf
+$ENDCMP
+#
+$CMP STMPS2161STR
+D Enhanced single channel power switch, 5,5V, 1000mA, EN=L
+K Power switch
+F https://www.st.com/resource/en/datasheet/stmps2141.pdf
+$ENDCMP
+#
+$CMP STMPS2161TTR
+D Enhanced single channel power switch, 5,5V, 1000mA, EN=L
+K Power switch
+F https://www.st.com/resource/en/datasheet/stmps2141.pdf
+$ENDCMP
+#
+$CMP STMPS2171STR
+D Enhanced single channel power switch, 5,5V, 1000mA, EN=H
+K Power switch
+F https://www.st.com/resource/en/datasheet/stmps2141.pdf
+$ENDCMP
+#
+$CMP STMPS2171TTR
+D Enhanced single channel power switch, 5,5V, 1000mA, EN=H
+K Power switch
+F https://www.st.com/resource/en/datasheet/stmps2141.pdf
+$ENDCMP
+#
+#End Doc Library

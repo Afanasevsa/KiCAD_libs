@@ -1,0 +1,27 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CP_ext
+D Polarized capacitor
+K cap capacitor extended
+F ~
+$ENDCMP
+#
+$CMP C_ext
+D Unpolarized capacitor, small symbol
+K capacitor cap extended
+F ~
+$ENDCMP
+#
+$CMP L_Coupled_1596
+D Coupled inductor
+K inductor choke coil reactor magnetic coupled
+F ~
+$ENDCMP
+#
+$CMP R_ext
+D Resistor, small symbol
+K R resistor extended
+F ~
+$ENDCMP
+#
+#End Doc Library

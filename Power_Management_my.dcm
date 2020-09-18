@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TPS2121
+D Priority power MUX with seamless switchover
+K Power mux
+F http://www.ti.com/lit/ds/symlink/tps2120.pdf
+$ENDCMP
+#
+#End Doc Library

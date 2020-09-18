@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BQ24650
+D Synchronous Switch-Mode Battery Charge Controller for Solar Power With Maximum Power Point Tracking
+K Battery Charge
+F http://www.ti.com/lit/ds/symlink/bq24650.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP L-S1P
+D Switch, single pole double throw, illuminated with LEDs paddle
+K switch single-pole double-throw spdt ON-ON illuminated
+F https://static.chipdip.ru/lib/285/DOC000285072.pdf
+$ENDCMP
+#
+$CMP L-S1PN
+D Switch, single pole double throw, illuminated with LEDs paddle
+K switch single-pole double-throw spdt ON-ON illuminated
+F https://static.chipdip.ru/lib/285/DOC000285072.pdf
+$ENDCMP
+#
+#End Doc Library

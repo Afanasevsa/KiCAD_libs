@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AOZ1021AI
+D Synchronous Step-Down Regulator 3 Amp Vout Adjustable SOIC-8
+K Step-Down Regulator
+F http://files.remont-aud.net/baza/dc_dc/data/AOZ1021.pdf
+$ENDCMP
+#
+#End Doc Library

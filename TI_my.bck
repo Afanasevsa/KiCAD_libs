@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TPS61170DRV
+D  1.2-A High-Voltage Boost Converter in 2-mm x 2-mm2 QFN Package
+K Step-Up DC-DC Converter
+F http://www.ti.com/lit/ds/symlink/tps62201.pdf
+$ENDCMP
+#
+#End Doc Library

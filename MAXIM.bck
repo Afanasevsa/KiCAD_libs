@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MAX1771CPA
+D 12V or Adjustable, High-Efficiency, Low IQ, Step-Up DC-DC Controller
+K Step-Up DC-DC
+F https://datasheets.maximintegrated.com/en/ds/MAX1771.pdf
+$ENDCMP
+#
+$CMP MAX1771CSA
+D 12V or Adjustable, High-Efficiency, Low IQ, Step-Up DC-DC Controller
+K Step-Up DC-DC
+F https://datasheets.maximintegrated.com/en/ds/MAX1771.pdf
+$ENDCMP
+#
+#End Doc Library

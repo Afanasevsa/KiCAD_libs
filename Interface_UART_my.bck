@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ISO1410BDW
+D 500 kbs, half-duplex, 5(6)-kVRMS Isolated RS-485/RS-422 Transceiver with Robust EMC
+K RS-485
+F http://www.ti.com/lit/ds/symlink/iso1410.pdf
+$ENDCMP
+#
+$CMP ISO1410DW
+D 500 kbs, half-duplex, 5(10)-kVRMS Isolated RS-485/RS-422 Transceiver with Robust EMC
+K RS-485
+F http://www.ti.com/lit/ds/symlink/iso1410.pdf
+$ENDCMP
+#
+#End Doc Library

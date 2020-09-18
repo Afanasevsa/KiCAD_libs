@@ -1,0 +1,11 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ADDM.671331.325
+D Transformer, 12.5:12:12 turns, 26:23:23 uH, 4kV
+$ENDCMP
+#
+$CMP ADDM.671331.342
+D Transformer, 12.5:12:12 turns, 26:23:23 uH, 4kV
+$ENDCMP
+#
+#End Doc Library

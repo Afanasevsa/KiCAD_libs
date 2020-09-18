@@ -1,0 +1,21 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 177920514
+D Isolated 1W DC/DC converter module, 5V input voltage, 5V output voltage, SIP
+K Wurth isolated isolation dc-dc converter step-down
+F https://katalog.we-online.de/pm/datasheet/177920514.pdf
+$ENDCMP
+#
+$CMP 177920524
+D Isolated 1W DC/DC converter module, 12V input voltage, 5V output voltage, SIP
+K Wurth isolated isolation dc-dc converter step-down
+F https://katalog.we-online.de/pm/datasheet/177920514.pdf
+$ENDCMP
+#
+$CMP 177920534
+D Isolated 1W DC/DC converter module, 24V input voltage, 5V output voltage, SIP
+K Wurth isolated isolation dc-dc converter step-down
+F https://katalog.we-online.de/pm/datasheet/177920514.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SN74LVC1G57DBV
+D  Configurable Multiple-Function Gate
+F https://www.ti.com/lit/ds/symlink/sn74lvc1g57.pdf
+$ENDCMP
+#
+#End Doc Library
